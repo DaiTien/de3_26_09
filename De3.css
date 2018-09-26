@@ -1,0 +1,56 @@
+.khung {
+	background: white;
+	width: 100%;
+	height: 500px;
+	margin: 0 auto;
+}
+.khung .box {
+	background: white;
+	width: 100%;
+	height: 200px;
+	float: left;
+} 
+.khung .box h1 {
+	margin: 0;
+	padding-top: 70px;
+	text-align: center;
+}
+.khung .box p {
+	margin: 0;
+	/* padding-top: 50px; */
+	text-align: center;
+}
+.khung .box .line{
+	background: black;
+	width: 3%;
+	height: 4px;
+	float: left;
+	margin-left: 48%;
+	margin-top: 1%;
+}
+.khung .box1{
+	background: white;
+	width: 25%;
+	height: 300px;
+	float: left;
+	margin-left: 5%;
+	margin-right: 4%;
+
+}
+.khung .box1 img{
+	margin-left: 37%;
+}
+.khung .box1 h3{
+	margin: 0;
+	padding-top: 15px;
+	text-align: center;
+}.khung .box1 p{
+	margin: 0;
+	padding-top: 15px;
+	text-align: center;
+}
+
+.khung .diff {
+	margin-left: 3%;
+	margin-right: 3%;
+}
