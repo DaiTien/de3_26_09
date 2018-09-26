@@ -1,0 +1,64 @@
+.OurWORK{
+	width: 100%;
+	height: 710px;
+	background: red;
+}
+.OurWORK .bx1{
+	width: 100%;
+	height: 180px;
+	background: red;
+}
+.OurWORK .bx2{
+	width: 80%;
+	height: 250px;
+	background: blue;
+	margin:0 auto;
+}
+.OurWORK .bx3{
+	width: 80%;
+	height: 250px;
+	background: #0099FF;
+	margin:0 auto;
+}
+.bx1 h2{
+	margin: 0;
+	padding-top: 70px;
+	color: #FFFFFF;
+	text-align: center;
+}
+.bx1 p{
+	margin: 0;
+	color: #FFFFFF;
+	text-align: center;
+}
+.bx1 .tn{
+	width: 4%;
+	height: 5px;
+	margin: 0 auto;
+	margin-top: 10px;
+	background: #FFFFFF;
+}
+.bx2 .box{
+	width: 25%;
+	height: 100%;
+	background: #CC3333;
+	float: left;
+}
+.box img{
+	width: 100%;
+	height: 100%
+}
+.box .mb{
+	width: 40%;
+	height: 40%;
+	margin-left: 35%;
+	margin-top: 20%;
+}
+.box p{
+	margin: 0;
+	text-align: center;
+	color: white;
+}
+.box h2{
+	text-align: center;margin: 0;color: white;
+}
