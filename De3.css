@@ -1,0 +1,61 @@
+.weprodiving{
+	float: left;
+	width: 100%;
+	height: 500px;
+	margin: auto;
+	background-image: url("http://anhcuoihanoi.net/wp-content/uploads/2017/09/chup-hinh-nghe-thuat-dep-5.jpg");
+	background-size: 100% 200%;
+}
+.weprodiving .top{
+	width: 100%;
+	height: 50%;
+}
+.weprodiving .bot{
+	width: 100%;
+	height: 50%;
+	margin: auto;
+}
+.weprodiving .top  h1{
+	padding: 0;
+	margin: auto;
+	padding-top: 150px;
+	text-align: center;
+	font-size: 50px;
+}
+.weprodiving h4{
+	font-size: 30px;
+	margin: auto;
+	padding: 0;
+	text-align: center; 
+}
+.weprodiving .bot .a{
+	width: 2.5%;
+	height:38px;
+	background-color: red;
+	float: left;
+	margin-left: 5%;
+}
+.weprodiving .bot .a.b{
+	float: right;
+	margin-right: 5%;
+}
+.weprodiving .bot .mid{
+	float: left;
+	width: 20%;
+	height: 38px;
+	background-color: #F7CD54;
+	margin-left: 32.5%;
+	box-sizing: border-box;
+	border-radius: 10px;
+}
+.weprodiving h2{
+	padding: 0;
+	text-align: center;
+	line-height: 5px;
+}
+.weprodiving h2 a{
+	text-decoration: none;
+	color: white;
+	display: block;
+	font-size: 20px;
+}
